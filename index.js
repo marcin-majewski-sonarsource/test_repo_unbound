@@ -32,5 +32,5 @@ class A {
   }
 }
 
-const pi = "yes, please";
+const pi = "no, please";
 pi = 3.14;  // Noncompliant
